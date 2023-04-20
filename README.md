@@ -5,12 +5,16 @@
 - ⚡ Amo Javascript
 -->
 
+##
+
 <div style="display: inline-block">
   <a href="https://github.com/matheusjuda">
-  <img height="169em" src="https://github-readme-stats.vercel.app/api?username=matheusjuda&show_icons=true&bg_color=0D1117&border_color=FFE81F&title_color=FFE81F&text_color=C3D1D9&icon_color=58A6FF&include_all_commits=true&count_private=true"/>
-  <img height="169em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusjuda&layout=compact&langs_count=10&bg_color=0D1117&border_color=FFE81F&title_color=FFE81F&text_color=C3D1D9"/>
+  <img height="169em" src="https://github-readme-stats.vercel.app/api?username=Matheusjuda&show_icons=true&bg_color=0D1117&border_color=FFE81F&title_color=FFE81F&text_color=C3D1D9&icon_color=58A6FF&include_all_commits=true&count_private=true"/>
+  <img height="169em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheusjuda&layout=compact&langs_count=10&bg_color=0D1117&border_color=FFE81F&title_color=FFE81F&text_color=C3D1D9"/>
 </div>
-
+  
+<br>
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
